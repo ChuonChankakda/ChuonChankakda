@@ -1,5 +1,3 @@
-<h3 align="left">Hey, it's "Chuon Chankakda", a MIS student, from SETEC Institute.</h3>
-
 ###
 
 <h3 align="left">✨ About me</h3>
