@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">i love coding.</p>
+<p align="left">I love coding.</p>
 
 ###
 
