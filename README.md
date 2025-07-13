@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Back in 2020, I decided to make a big change, switching from studying criminology to diving into the exciting world of Information Technology. That's when I discovered my passion for software development.<br><br>Now, with over 3+ years of experience as a MIS student, I've had the chance to work in a constantly changing field, collaborating with other coding enthusiasts and contributing to some amazing projects.<br><br>I'm all about the details, whether it's writing efficient code or perfecting a recipe. I believe that paying attention to the little things is key to building scalable, engaging, and accessible digital experiences.<br><br>When I'm not coding, I like to mix things up. You might find me pedaling my bicycle, reading a good book, going for walks, doing home workouts, enjoying a good meal, playing PUBG Mobile or ML with friends, or just learning something new.</p>
+<p align="left">i love coding.</p>
 
 ###
 
